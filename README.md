@@ -1,6 +1,9 @@
 # Packer
 Packer images using in the lab
 
+**NOTE**
+Yes there is a credentials.pkr.hcl there to use for ease of use. NO you would NEVER use it in production enviroment, it is for a lab enviroment only. 
+
 ## Before deployment
 Run a validate to check for errors
 
